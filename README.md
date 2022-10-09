@@ -33,8 +33,8 @@
 <br/>
 
 <a href="https://github.com/erikadeolima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikadeolima&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikadeolima&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikadeolima&theme=aura_dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikadeolima&theme=aura_dark&layout=compact" />
 </a>
 
 <br/>
