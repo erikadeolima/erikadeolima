@@ -27,7 +27,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🧪 &nbsp;
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![React-Testing-Library](https://img.shields.io/badge/-React-TestingLibrary-52B0E7?style=for-the-badge&logo=testing-library&logoColor=white)
+  ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 
 <br/>
