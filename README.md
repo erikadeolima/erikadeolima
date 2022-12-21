@@ -37,10 +37,14 @@
 
 <br/>
 
-<a href="https://github.com/erikadeolima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikadeolima&theme=aura_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikadeolima&theme=aura_dark&layout=compact" />
+<a href="https://github.com/erikadeolima/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erikadeolima&show_icons=true&theme=dark" />
 </a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=erikadeolima&layout=compact&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikadeolima&layout=compact&theme=dark" />
+</a>
+
+<!--https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=erikadeolima! --!>
 
 <br/>
 
