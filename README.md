@@ -5,8 +5,6 @@
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/erikadeolima)](https://github.com/erikadeolima)
 [![Linkedin Badge](https://img.shields.io/badge/-erikadeolima-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikadeolima/)](https://www.linkedin.com/in/erikadeolima/)
-[![Instagram Badge](https://img.shields.io/badge/-@erikadeo.lima-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/erikadeo.lima/)](https://www.instagram.com/erikadeo.lima/)
-[![Hotmail](https://img.shields.io/badge/-erikadeolima-c14438?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:erikadeo.lima@hotmail.com)](mailto:erikadeo.lima@hotmail.com)
 
 <h3> 🇺🇲 Follow me at social medias, i'd love it!!!</h3>
 <h4> My name is Erika: curious by nature, I have a degree in chemistry, and currently studying web development at Trybe, thus starting my journey in the world of development. I have a lot to learn, open to tips, advice and ear pulls too. Welcome to my profile. </h4>
